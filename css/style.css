@@ -1,0 +1,89 @@
+body {
+    margin: 0 auto;
+}
+html, body, section {
+    width: 100%;
+    height: 100%;
+    
+}
+.mySlides {display:none;}
+
+p, h1, h2, h3, h4, h5 {
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 4.5vw;
+
+}
+
+.fullscreen-img-1 {
+  /* The image used */
+  background-image: url("../img/holding%20hands1%20.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-2 {
+  /* The image used */
+  background-image: url("../img/brian1.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-3 {
+  /* The image used */
+  background-image: url("../img/unnamed.jpg");
+
+  /* Full height */
+  height: 100%;
+
+    
+    
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fullscreen-img-4 {
+  /* The image used */
+  background-image: url("../img/pexels-photo-208189.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+    
+    
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.black-shadow {
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+/* full screen video */ 
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+overflow: hidden;
+}
+
+
+
