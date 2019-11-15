@@ -69,6 +69,20 @@ p, h1, h2, h3, h4, h5 {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.fullscreen-img-5 {
+  /* The image used */
+  background-image: url("../img/);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .black-shadow {
     text-shadow: 1px 1px 2px rgb(0, 0, 0);
 }
